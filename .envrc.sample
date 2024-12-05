@@ -1,0 +1,2 @@
+export PROJECT_PATH=User/ProjectPath
+export REPOS_LIST='repository_name_1 repository_name_2'
